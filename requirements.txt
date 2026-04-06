@@ -1,0 +1,7 @@
+#requirement
+
+fastapi
+uvicorn
+langchain-groq
+langchain-core
+pydantic
